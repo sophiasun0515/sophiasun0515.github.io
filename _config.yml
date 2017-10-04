@@ -32,7 +32,7 @@ disqus: false
 facebook: sophiasun0515
 # twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: sophiasun55
 # pinterest: mypinterest
 linkedin: ruixuan-sun
 # youtube: myyoutube
@@ -40,7 +40,7 @@ linkedin: ruixuan-sun
 github: sophiasun0515
 # medium: medium
 # vimeo: myvimeo
-devpost: sophia
+# devpost: sophia
 email: sophiasun0515@gmail.com
 
 authors:
@@ -48,7 +48,7 @@ authors:
         name: Ruixuan Sun
         bio: A Second Year CS student at Georgia Tech
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/Travel.jpg
         linkedin: ruixuan-sun
 
 # do you want a larger site? change the option below
