@@ -29,19 +29,19 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: azra.ismail.904
+facebook: sophiasun0515
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: azra-ismail
+linkedin: ruixuan-sun
 # youtube: myyoutube
 # spotify: myspotify
-github: aismail1997
+github: sophiasun0515
 # medium: medium
 # vimeo: myvimeo
-devpost: azra
-email: azraismail9@gmail.com
+devpost: sophia
+email: sophiasun0515@gmail.com
 
 authors:
     azra-ismailamil:
@@ -49,7 +49,7 @@ authors:
         bio: A Second Year CS student at Georgia Tech
         external-image: false
         picture: assets/images/profile.jpg
-        linkedin: azra-ismail
+        linkedin: ruixuan-sun
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
