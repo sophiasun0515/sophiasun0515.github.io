@@ -17,15 +17,14 @@ externalLink: false
 
 ---
 
-Co-Locate allows an administrator to identify the precise locations of users registered to a network. This app is particularly useful in emergency situations, where people scramble to find out if their friends, family members, coworkers, and peers are safe. With Co-Locate, users can update their safety statuses, which an administrator of a network can obtain in real-time. This greatly simplifies the process of ensuring the safety of all those affected.
+Tom and Jerry is an Android Application that allows NYC residents or traverllers to track the distribution of rats around the whole city or report the sighting of rats with their accurate locations on map when they see them. It is a great guide for people with rat phobia to avoid specific areas when they have to walk along the street of NYC.
 
 #### Skills
 
 - Android SDK
-- mobile sensors
 - Google Maps API
 
 ---
 
-[Check it out](https://devpost.com/software/echolocate) here.
-If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
+[Check it out](https://github.com/ruihanxu/Cat) here.
+If you need some help, just [tell me](sophiasun0515@gmail.com).
