@@ -1,7 +1,7 @@
 ---
-title: "PaparazziBot"
+title: "Crazy Poker"
 layout: post
-date: 2016-12-12
+date: 2017-05-01
 # tag: jekyll
 # image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
@@ -10,23 +10,19 @@ coursework: false
 research: false
 awards: false
 hidden: true # don't count this post in blog pagination
-description: "A bot that can look for a face in the crowd and can be controlled remotely."
-author: azra-ismail
+description: "The JavaFX poker game allowing players to play a poker game with 3 AIs."
+author: Ruixuan Sun
 externalLink: false
 
 ---
 
-For a class design project (ECE 4180 - embedded systems design), my team built an mbed bot paired with a Raspberry Pi 3 that could scan for a face in a crowd. Input could be provided by the user through a C# application that communicates with the Raspberry Pi over WiFi. A user could provide directions for the bot to move in, provide the name for a person to scan a crowd for in auto mode, and also just take a picture and analyze its contents. We use the IBM Watson API to build an application in node-red that runs on the Raspberry Pi. The app determines who is present in an image and then posts the result on a twitter page - https://twitter.com/ece4180Group. Communication between the Raspberry Pi and the mbed is done via serial.
-
-Currently the IBM computer vision software can only detect celebrities, hence the term - paparazziBot. Ideally, one could train the model on any face, and by giving it pictures of criminals, it could function as a security bot.
+As the first Object-Oriented program project I've designed that implements the Model-View-Controller concept, Crazy Poker is a JavaFX game application that allows players to enjoy the game with three AIs with card playing skills. The game rule is pre-defined in the controller and can be changed based on the needs of users. Dealing of cards is random and guarantee a fair chance for each player, and the cards of each [player will be covered until the end of the game, so no one would really know what would happen in the next round!
 
 #### Tags
 
-- ARM mbed
-- Raspberry Pi
-- camera
-- motors
-- WiFi/Serial
+- Java
+- JavaFX
+- OOP
 
 ---
-[Check it out](https://developer.mbed.org/users/azndevil/notebook/paparazzi-bot/) If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues).
+[Check it out](https://github.com/sophiasun0515/Poker_Game) If you need some help, just [tell me](https://github.com/sophiasun0515/Poker_Game/issues).
