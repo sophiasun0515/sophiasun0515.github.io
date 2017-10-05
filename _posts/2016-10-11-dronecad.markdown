@@ -33,4 +33,4 @@ My team at Aerohacks (an aerospace themed hackathon at Georgia Tech) used a Parr
 - node.js
 
 ---
-[Check it out](https://devpost.com/software/dronecad) here. If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
+[Check it out](https://devpost.com/software/dronecad) here. If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues).

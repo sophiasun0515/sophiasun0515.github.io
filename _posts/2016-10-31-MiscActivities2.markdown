@@ -27,4 +27,4 @@ I used the Braitenberg method to develop an algorithm to solve the Traveling Sal
 ---
 
 <!-- [Check it out](http://devpost.com/software/orchestrai) here.
-If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues). -->
+If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues). -->

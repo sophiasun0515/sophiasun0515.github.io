@@ -30,4 +30,4 @@ We used the Crime Incidents Open Dataset for the city of Philadelphia and ran a 
 ---
 
 [Check it out](http://devpost.com/software/dummy-qlr4ti) here.
-If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
+If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues).

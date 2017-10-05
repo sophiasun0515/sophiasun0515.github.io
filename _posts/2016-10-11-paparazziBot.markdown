@@ -29,4 +29,4 @@ Currently the IBM computer vision software can only detect celebrities, hence th
 - WiFi/Serial
 
 ---
-[Check it out](https://developer.mbed.org/users/azndevil/notebook/paparazzi-bot/) If you need some help, just [tell me](http://github.com/aismail1997/aismail1997.github.io/issues).
+[Check it out](https://developer.mbed.org/users/azndevil/notebook/paparazzi-bot/) If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues).
