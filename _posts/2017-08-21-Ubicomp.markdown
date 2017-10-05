@@ -1,5 +1,5 @@
 ---
-title: "Ubiquitous Computing - COSMOS Project Group"
+title: "Ubiquitous Computing"
 layout: post
 date: 2017-08-21
 # tag: jekyll

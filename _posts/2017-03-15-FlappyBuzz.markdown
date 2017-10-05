@@ -8,7 +8,7 @@ headerImage: true
 projects: true
 coursework: false
 research: false
-awards: false
+activities: false
 hidden: true # don't count this post in blog pagination
 description: "A unity game as GT version “Flappy Bird” written in C#"
 #jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'

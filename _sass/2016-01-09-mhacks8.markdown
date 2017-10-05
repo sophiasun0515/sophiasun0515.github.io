@@ -8,7 +8,7 @@ headerImage: true
 projects: true
 coursework: true
 research: true
-awards: true
+activities: true
 hidden: true # don't count this post in blog pagination
 description: "An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists."
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'

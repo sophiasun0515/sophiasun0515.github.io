@@ -8,7 +8,7 @@ headerImage: true
 projects: true
 coursework: false
 research: false
-awards: false
+activities: false
 hidden: true # don't count this post in blog pagination
 description: "The JavaFX poker game allowing players to play a poker game with 3 AIs."
 author: Ruixuan Sun
