@@ -67,6 +67,7 @@ projects: true
 about: true
 blog: false
 research: true
+work: true
 activities: true
 coursework: true
 resume: true
