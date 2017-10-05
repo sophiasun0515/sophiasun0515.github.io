@@ -27,4 +27,4 @@ Tom and Jerry is an Android Application that allows NYC residents or traverllers
 ---
 
 [Check it out](https://github.com/ruihanxu/Cat) here.
-If you need some help, just [tell me](sophiasun0515@gmail.com).
+If you need some help, just [tell me](https://github.com/sophiasun0515/sophiasun0515.github.io/issues).
