@@ -1,0 +1,31 @@
+---
+title: "Ubiquitous Computing - COSMOS Project Group"
+layout: post
+date: 2017-08-21
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: false
+coursework: false
+research: true
+hidden: true # don't count this post in blog pagination
+description: "Ubiquitous Computing"
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: Ruixuan Sun
+externalLink: false
+
+---
+Working as a student assistant of the Computational Skins for Multi-functional Objects and Systems (COSMOS) project lead by Professor Gregory Abowd, which aims to develop a skin that can be layered on top of everyday objects to provide new interactions. Currently help with Timer-Skin project for prototype design, circuit building, and experiment data analysis, also started independent project call MACUSA Clock that get inspiration from the magic clock from the movie "Fantastic Beasts and Where to Find Them" and carry the goal to enable users control the clock to convey useful information with mobile apps on their portable devices.
+
+Advised by: [Dr. Gregory Abowd](http://ubicomp.cc.gatech.edu/gregory-d-abowd/)
+
+#### Tags
+- Human-Computer Interaction
+- Ubiquitous Computing
+- Design
+- Prototyping
+- Embedded programming
+
+---
+
+If you need some help, just [tell me](http://github.com/aismail1997/sophiasun0515.github.io/issues).
