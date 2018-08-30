@@ -1,0 +1,32 @@
+---
+title: "rClikr"
+layout: post
+date: 2017-11-15
+# tag: jekyll
+# image: /assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+coursework: false
+research: false
+activities: false
+hidden: true # don't count this post in blog pagination
+description: "Find your near and dear ones"
+#jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: azra-ismail
+externalLink: false
+
+---
+
+Created by Luming Yin, Sophia Sun and Mitchell Gant, rClikr is the Second Price Winner in Georgia Tech's 2017 Appathon. It is a application to function as a remote clicker between iOS and macOS devices. Supports apps such as Preview, Google Slides and QuickTime Player.
+
+#### Skills
+
+- XCode
+- Swift
+- Objective C
+- Firebase
+
+---
+
+[Check it out](https://github.com/sophiasun0515/rClickr) here.
+If you need some help, just [tell me](https://github.com/sophiasun0515/sophiasun0515.github.io/issues).

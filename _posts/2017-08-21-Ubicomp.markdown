@@ -1,7 +1,7 @@
 ---
 title: "Ubiquitous Computing"
 layout: post
-date: 2017-08-21
+date: 2018-08-29
 # tag: jekyll
 # image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
@@ -15,13 +15,15 @@ author: Ruixuan Sun
 externalLink: false
 
 ---
-Working as a student assistant of the Computational Skins for Multi-functional Objects and Systems (COSMOS) project lead by Professor Gregory Abowd, which aims to develop a skin that can be layered on top of everyday objects to provide new interactions. Currently help with Timer-Skin project for prototype design, circuit building, and experiment data analysis, also started independent project call MACUSA Clock that get inspiration from the magic clock from the movie "Fantastic Beasts and Where to Find Them" and carry the goal to enable users control the clock to convey useful information with mobile apps on their portable devices.
+For Fall 2017, I worked as a student assistant of the Computational Skins for Multi-functional Objects and Systems (COSMOS) project lead by Professor Gregory Abowd, which aims to develop a skin that can be layered on top of everyday objects to provide new interactions, in which I mainly helped with Timer-Skin project for prototype design, circuit building, and experiment data analysis, also started independent project in Spring 2018 to conduct a low-cost VR video call in 3D environment with redesigned Google Cardboard and periscope; Collect and train facial expression data with OpenCV and dlib; Reconstruct VR model in Unity3D and reflect real-time changes to mobile phone application; And also conduct user study and perform data analysis for module optimization.
 
 Advised by: [Dr. Gregory Abowd](http://ubicomp.cc.gatech.edu/gregory-d-abowd/)
 
 #### Tags
 - Human-Computer Interaction
 - Ubiquitous Computing
+- Machine Learning
+- Computer Vision
 - Design
 - Prototyping
 - Embedded programming

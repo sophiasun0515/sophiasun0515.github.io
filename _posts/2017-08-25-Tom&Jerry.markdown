@@ -17,11 +17,13 @@ externalLink: false
 
 ---
 
-Tom and Jerry is an Android Application that allows NYC residents or traverllers to track the distribution of rats around the whole city or report the sighting of rats with their accurate locations on map when they see them. It is a great guide for people with rat phobia to avoid specific areas when they have to walk along the street of NYC.
+Tom and Jerry is an Android Application that allows NYC residents or traverllers to track the distribution of rats around the whole city or report the sighting of rats with their accurate locations on map when they see them. It is a great guide for people with rat phobia to avoid specific areas when they have to walk along the street of NYC. And it's available in android, iOS, Web, and JavaFX version.
 
 #### Skills
 
 - Android SDK
+- XCode
+- JavaFX
 - Google Maps API
 
 ---
