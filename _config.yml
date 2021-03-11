@@ -8,7 +8,7 @@ description: A summary of my work
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile_2021.jpg
+picture: assets/images/profile_2021.JPG
 
 # url: https://koppl.in/indigo
 url: http://sophiasun0515.github.io
@@ -48,7 +48,7 @@ authors:
         name: Ruixuan Sun
         bio: A Second Year CS student at Georgia Tech
         external-image: false
-        picture: assets/images/profile_2021.jpg
+        picture: assets/images/profile_2021.JPG
         linkedin: sophia-sun
 
 # do you want a larger site? change the option below
