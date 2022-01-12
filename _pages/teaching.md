@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I've been TA for. To be updated soon.
+description: 
+Spring 2022: Graduate TA for CSCI 5125, Collaborative & Social Computing
 nav: true
 ---
 
