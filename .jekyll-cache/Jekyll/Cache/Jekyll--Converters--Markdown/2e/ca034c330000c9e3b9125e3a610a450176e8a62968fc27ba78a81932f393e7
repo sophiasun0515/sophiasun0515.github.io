@@ -1,0 +1,30 @@
+I"Ï<p>Some pictures of Noel and Yuki:</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/yuki_1.jpeg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/yuki_2.jpeg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/yuki_3.jpeg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Yuki was born in June, 2021. We adopted him when he was 4-month old from a shelter in Albert Lea, MN. He's a long-hair domestic sweetie, super energetic and always ready to play with humans!
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/noel_1.jpeg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/noel_2.jpeg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/noel_3.jpeg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Noel was born in early 2018. We adopted her in Dec 2020 from a shelter in Redwood City, CA. She's a short-hair domestic girl, quiet and gentle. Her favorite activity is sunbathing!
+</div>
+:ET

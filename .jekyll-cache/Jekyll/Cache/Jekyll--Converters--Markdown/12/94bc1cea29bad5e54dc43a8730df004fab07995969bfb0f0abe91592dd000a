@@ -1,0 +1,218 @@
+I"x<div class="publications">
+
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">ICAART</abbr>
+    
+  
+  </div>
+
+  <div id="ICAART2021" class="col-sm-8">
+    
+      <div class="title">Twin-GAN for Neural Machine Translation</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Zhao, J.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Huang, L.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Sun, R.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Bing, L.,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Qu, H.
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>ICAART,</em>
+      
+      
+        2021
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+    
+    
+    
+    
+      <a href="https://www.scitepress.org/Papers/2021/102173/102173.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>In recent years, Neural Machine Translation (NMT) has achieved great success, but we can not ignore two
+important problems. One is the exposure bias caused by the different strategies between training and inference, and the other is that the NMT model generates the best candidate word for the current step yet a bad
+element of the whole sentence. The popular methods to solve these two problems are Schedule Sampling and
+Generative Adversarial Networks (GANs) respectively, and both achieved some success. In this paper, we
+proposed a more precise approach called “similarity selection” combining a new GAN structure called twinGAN to solve the above two problems. There are two generators and two discriminators in the twin-GAN.
+One generator uses the “similarity selection” and the other one uses the same way as inference (simulate the
+inference process). One discriminator guides generators at the sentence level, and the other discriminator
+forces these two generators to have similar distributions. Moreover, we performed a lot of experiments on the
+IWSLT 2014 German→English (De→En) and the WMT’17 Chinese→English (Zh→En) and the result shows
+that we improved the performance compared to some other strong baseline models which based on recurrent
+architecture.</p>
+    </div>
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">GT2019</abbr>
+    
+  
+  </div>
+
+  <div id="sun2019evaluation" class="col-sm-8">
+    
+      <div class="title">An Evaluation of the Value of Lip and Jaw Motion in Virtual Reality Avatars</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              Sun, Ruixuan
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em></em>
+      
+      
+        2019
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+    
+    
+    
+    
+      <a href="https://smartech.gatech.edu/bitstream/handle/1853/61405/SUN-UNDERGRADUATERESEARCHOPTIONTHESIS-2019.pdf?sequence=1" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Virtual reality (VR) is known as a simulated 3D immersive technology. Currently, the emphasis has been mainly placed on tracking the upper face, like eye tracking and eyebrow imitation, where the lower face containing the largest emotions of the face are usually hard for commercial VR headset to capture due to hardware limit. In this study, we explore the role of lip and jaw motionswhen VR is used as a communication medium by comparing the effectiveness of camera-based facial landmark tracking against audio-driven lip movements.</p>
+    </div>
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+
+</div>
+:ET
