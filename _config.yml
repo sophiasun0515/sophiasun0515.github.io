@@ -50,8 +50,8 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: sophia-sun # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: Weza90IAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-4653-0384 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -62,7 +62,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-contact_note: Please shoot me an email or send a Linkedin message if you're interested in connection!
+contact_note: Please shoot me an email or send a Linkedin message if you're interested in connection or collaboration!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID

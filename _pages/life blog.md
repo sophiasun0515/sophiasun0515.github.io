@@ -2,7 +2,7 @@
 layout: page
 title: life
 permalink: /life/
-description: Outside from research and work, I have two kitties (Noel 阿肥 and Yuki 阿皮) and grow some indoor plants. I like snowboarding, hiking, traveling, and video editing. I play the piano and little bit of ukulele, and sometimes go to concert or musicals (Rent is my favorite!). 
+description: Outside from research and work, I have two kitties (Noel 大胖 and Yuki 阿皮) and grow some indoor plants. I like snowboarding, skiing, hiking, traveling, and visiting museums. I play the piano and little bit of ukulele, and sometimes go to concert or musicals (Rent and Les Misérables are my favorite!). 
 nav: true
 display_categories: [work, fun]
 horizontal: false
@@ -50,10 +50,10 @@ Some pictures of Noel and Yuki:
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/hiking.jpeg' | relative_url }}" alt="" title="Hiking on Mount Tamalpais, California"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ski_lutsen.jpg' | relative_url }}" alt="" title="Snowboading in Lutsen Mountain, Minnesota"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/snowboard.jpeg' | relative_url }}" alt="" title="Snowboading in Eldora, Colorado"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/maui_hiking.jpg' | relative_url }}" alt="" title="Hiking on Haleakalā National Park, Maui"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/burney_falls.jpeg' | relative_url }}" alt="" title="Hiking on Burney Falls, California"/>
@@ -64,15 +64,15 @@ Some pictures of Noel and Yuki:
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/aurora.jpeg' | relative_url }}" alt="" title="Aurora borealis in Arctic Circle, Alaska"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/oaxaca.jpg' | relative_url }}" alt="" title="Jardín Etnobotánico de Oaxaca, Mexico"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mendocino.jpeg' | relative_url }}" alt="" title="The big tides in Mendocino, California"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/aurora.jpeg' | relative_url }}" alt="" title="Aurora borealis in Arctic Circle, Alaska"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/white_sand.jpeg' | relative_url }}" alt="" title="White Sand National Park, New Mexico"/>
     </div>
 </div>
 <div class="caption">
-    I love outdoors! Being close to nature is always so refreshing and enjoyful to me. I hiked and snowboarded in many places around the US during my traveling.
+    I love outdoors! Being close to nature is always so refreshing and enjoyful to me. I hiked and snowboarded in many places during my traveling.
 </div>
