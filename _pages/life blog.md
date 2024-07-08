@@ -3,7 +3,7 @@ layout: page
 title: life
 permalink: /life/
 description: Outside from research and work, I have two kitties (Noel 大胖 and Yuki 阿皮) and grow some indoor plants. I like snowboarding, skiing, hiking, traveling, and visiting museums. I play the piano and little bit of ukulele, and sometimes go to concert or musicals (Rent and Les Misérables are my favorite!). 
-nav: true
+nav: false
 display_categories: [work, fun]
 horizontal: false
 ---
