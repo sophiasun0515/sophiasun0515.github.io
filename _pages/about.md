@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! This is Ruixuan(Sophia), a 3rd-year Computer Science Ph.D. student working with [Dr. Joseph Konstan](http://konstan.umn.edu/) at University of Minnesota. I earned my Bachalor's Degree of Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/) in 2019. After graduation, I've worked as a Software Engineer at [Yelp](https://www.yelp.com/) for two years before starting my Ph.D. journey at UMN.
+Hi! This is Ruixuan(Sophia), a 4th-year Computer Science Ph.D. student working with [Dr. Joseph Konstan](http://konstan.umn.edu/) at University of Minnesota. I earned my Bachalor's Degree of Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/) in 2019. After graduation, I've worked as a Software Engineer at [Yelp](https://www.yelp.com/) for two years before starting my Ph.D. journey at UMN.
 
 My research interests include: <strong>Human-centered AI, Social Computing, Recommender Systems</strong>, and <strong> Machine Learning</strong>. I have expertise in mixed-method study design and extensive experience in running large-scale online field experiments powered by A/B tests. In general, I love training models and conducting user evaluation to understand how we can better serve human beings with AI-powered technology!
 
