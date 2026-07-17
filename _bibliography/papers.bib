@@ -1,9 +1,34 @@
 ---
 ---
+@inproceedings{sun2026beyond,
+  abbr={SIGIR '26},
+  title={Beyond Exposure Diversity: Debiasing News Consumption With Topic-Locality Calibration and Personalized Preview Nudges},
+  author={Sun, Ruixuan and Zent, Matthew and Zhao, Minzhu and Li, Xinyi and Boyapati, Thanmayee and Konstan, Joseph A},
+  html = {https://dl.acm.org/doi/10.1145/3805712.3809534},
+  abstract = {In this study, we applied the "personalized diversity nudge framework" with the goal of expanding readers' reading coverage in terms of news locality (i.e., domestic and world news). We designed a novel topic-locality dual calibration algorithmic nudge and a large language model-based news personalization presentation nudge, then launched a 5-week real-user study with 120 U.S. news readers on the news recommendation experiment platform POPROX. With interaction logs and survey responses, we found that algorithmic nudges can successfully increase exposure and consumption diversity, while the impact of LLM-based presentation nudges varied. Participant-level topic interest is a strong predictor of individual clicks, while highlighting the relevance of news articles to prior read articles outperforms generic topic-based and no personalization. We also demonstrate that longitudinal exposure to calibrated news may shift readers' reading habits to value a balanced news digest from both domestic and world articles. Our results provide direction for future work on nudging for diverse consumption in news recommendation systems.},
+  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1719--1730},
+  year={2026}
+}
+
+@inproceedings{sun2026productively,
+  abbr={UMAP '26},
+  title={Productively Wrong: How Auditing Open Profiles Enhances Interest Awareness and Reflection in Movie Recommenders},
+  author={Sun, Ruixuan and Wang, Junyuan and Roy, Sanjali and Konstan, Joseph},
+  html = {https://dl.acm.org/doi/10.1145/3774935.3806787},
+  abstract = {Open User Models (OUM) leverage natural language to help users scrutinize their interests, moving beyond opaque behavioral logs to establish a ground truth of user preference. Building on this foundation, we introduce an LLM-generated open profile for a live movie recommender system that presents editable, personalized interest summaries. Unlike static profiles, this design invites users to directly inspect, audit, and reflect on the system’s inferences. In an eight-week field deployment with 1,775 active users, we found that participants actively engaged in preference construction, specifically pruning inaccurate dislikes and refining nuanced tastes. Our results show that this profile auditing process encourages high-efficiency maintenance behavior, leading to significantly increased reflection activity and engagement. We advocate for a Productively Wrong design strategy, where exposing mild AI inaccuracies serves as a catalyst to stimulate user intervention, fostering transparent systems where users actively curate their digital identity.},
+  booktitle = {Proceedings of the 34th ACM Conference on User Modeling, Adaptation and Personalization},
+  booktitle={Proceedings of the 34th ACM Conference on User Modeling, Adaptation and Personalization},
+  pages={424--428},
+  year={2026}
+}
+
 @inproceedings{sun2025multi,
   abbr={CHI EA'25},
   title={Multi-Prompting Scenario-based Movie Recommendation with Large Language Models: Real User Case Study},
   author={Sun, Ruixuan and Li, Xinyi and Akella, Avinash and Konstan, Joseph A},
+  html={https://dl.acm.org/doi/10.1145/3706599.3706682},
+  abstract = {This paper investigates the potential of using large language models (LLMs) for personalized movie recommendations in an online field experiment. We assess the performance of LLM recommenders using a combination of between-subject prompts, historical consumption patterns, and within-subject recommendation scenarios. Analyzing conversation and survey data from 160 active users, we find that while LLMs excel in providing explainable recommendations, they lack in personalization, diversity, and user trust. Interestingly, personalized prompting techniques do not significantly affect user-perceived recommendation quality, while the number of movies a user has watched plays a more significant role. Furthermore, LLMs demonstrate a stronger ability to recommend lesser-known or niche movies. Through qualitative analysis, we identify key conversational patterns linked to positive and negative user interaction experiences and conclude that providing personal context and examples is crucial for obtaining high-quality recommendations from LLMs. These insights offer practical implications for improving LLM-based RecSys in real-world applications.},
   booktitle={Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems},
   pages={1--12},
   year={2025}
@@ -13,6 +38,8 @@
   abbr={CHIIR '25},
   title={Why They Come And Go: A Case Study of Productive Flyby Users and Their Rating Integrity Challenge in Movie Recommenders},
   author={Sun, Ruixuan and Kong, Ruoyan and Milton, Ashlee and Kluver, Daniel and Paterson, Ian and Konstan, Joseph A},
+  html={https://dl.acm.org/doi/10.1145/3698204.3716442},
+  abstract={We present a case study of productive flyby users (PFB users) on a recommendation website. These users exhibit counterintuitive behavior: they input a large amount of data during their first visit but never return. This phenomenon can have both positive and negative impacts on the system. On the positive side, their high productivity contributes a substantial amount of data. On the negative side, they may input inappropriate ratings that violate the assumptions of recommendation algorithms, potentially undermining system performance. To better understand the nature and causes of this behavior, we investigated their motivations, expectations, reasons for leaving, and the potential risks associated with their ratings using a mixed-methods approach. Specifically, we conducted interviews with 11 users, surveyed 41 users, and analyzed the impact of 1,000 PFB users on the performance of recommendation algorithms for regular users. Our findings revealed diverse motivations among PFB users. Some engaged with the system merely to pass the time, while others had unrealistic expectations of the recommender system. Regarding rating quality, 27\% of surveyed users admitted to rating movies they had not seen, citing reasons such as browsing too quickly or attempting to manipulate the algorithm. Notably, users who reported leaving because they were "just killing time and forgot about the website" were the most likely to rate unseen movies. Overall, PFB users significantly influence recommendation algorithms and their performance for regular users. While some subgroups negatively affect prediction accuracy, others provide valuable data contributions. We discuss strategies for recommendation websites to better support these users or mitigate the impact of inappropriate ratings.},
   booktitle={Proceedings of the 2025 ACM SIGIR Conference on Human Information Interaction and Retrieval},
   pages={1--11},
   year={2025}

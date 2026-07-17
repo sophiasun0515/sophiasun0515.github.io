@@ -51,8 +51,19 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
-  width: 100%;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  width: 38%;
+  max-width: 240px;
+
+  img {
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+    display: block;
+    margin: 0 auto 0.75rem auto;
+    border-radius: 0.5rem;
+  }
 
   .address {
     margin-bottom: 5px;
@@ -65,11 +76,25 @@ blockquote {
   }
 }
 
-@media (min-width: 576px) {
+.clearfix {
+  overflow: hidden;
+
+  p, ul, ol {
+    text-align: justify;
+  }
+}
+
+@media (max-width: 576px) {
   .profile {
-    width: 30%;
-    .address {
-      p { display: block; }
+    float: none;
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto 1.25rem auto;
+  }
+
+  .clearfix {
+    p, ul, ol {
+      text-align: left;
     }
   }
 }
