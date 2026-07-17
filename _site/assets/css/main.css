@@ -121,8 +121,18 @@ blockquote {
 }
 
 .profile {
-  margin-left: 1rem;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  width: 38%;
+  max-width: 240px;
+}
+.profile img {
   width: 100%;
+  max-width: 240px;
+  height: auto;
+  display: block;
+  margin: 0 auto 0.75rem auto;
+  border-radius: 0.5rem;
 }
 .profile .address {
   margin-bottom: 5px;
@@ -134,12 +144,22 @@ blockquote {
   margin: 0;
 }
 
-@media (min-width: 576px) {
+.clearfix {
+  overflow: hidden;
+}
+.clearfix p, .clearfix ul, .clearfix ol {
+  text-align: justify;
+}
+
+@media (max-width: 576px) {
   .profile {
-    width: 30%;
+    float: none;
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto 1.25rem auto;
   }
-  .profile .address p {
-    display: block;
+  .clearfix p, .clearfix ul, .clearfix ol {
+    text-align: left;
   }
 }
 .post-description {
